@@ -12,8 +12,10 @@ alias tmn="tmux new"
 
 # git
 alias gst="git status"
-alias gcm="git commit -m "
+alias gc="git commit -m "
 alias ga.="git add ."
+alias gp="git push"
+alias gpl="git pull"
 
 # ls
 alias ll="ls -la"
